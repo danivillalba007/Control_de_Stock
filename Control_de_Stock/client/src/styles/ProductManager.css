@@ -1,0 +1,13 @@
+.ProductManager {
+    display: flex;
+    flex-direction: column;
+}
+
+.ProductManager input {
+    margin-right: 10px;
+    float: none;
+}
+
+.ProductManager label {
+    margin-right: 20px;
+}
